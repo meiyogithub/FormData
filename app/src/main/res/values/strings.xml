@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Form Data</string>
+    <string name="nama">Nama</string>
+    <string name="nomor_induk_kependudukan">Nomor Induk Kependudukan</string>
+    <string name="usia">Usia</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="laki_laki">Laki Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="alamat">Alamat</string>
+    <string name="e_mail">E-mail</string>
+    <string name="asal_sekolah">Asal Sekolah</string>
+    <string name="kompetensi_yang_dimiliki">Kompetensi yang dimiliki</string>
+    <string name="simpan">Simpan</string>
+    <string name="data_diri">Data Diri</string>
+    <string name="nama2">Nama :</string>
+    <string name="nik">NIK :</string>
+    <string name="usia2">Usia :</string>
+    <string name="jenis_kelamin2">Jenis Kelamin :</string>
+    <string name="alamat2">Alamat :</string>
+    <string name="email">Email :</string>
+    <string name="sekolah">Sekolah :</string>
+    <string name="kompetensi">Kompetensi :</string>
+</resources>
